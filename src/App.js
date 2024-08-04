@@ -15,7 +15,7 @@ window.process = {
     };
 
 const app = new Clarifai.App({
-    apiKey: 'cd9dc2dc716f4584b69c1d85d35220f9',
+    apiKey: <api key>,
 });
 
 const model = {
